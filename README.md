@@ -16,11 +16,11 @@ Chapters statistic:
 14 DOM: 3/3 :heavy_check_mark:  
 15 Handling Events: 3/3 :heavy_check_mark:  
 16 (Project) A Platform Game: 1/3 :white_check_mark:  
-17 Drawing on Canvas: 0/4 :x:  
+17 Drawing on Canvas: 0/3 :x:  
 18 HTTP and Forms: 2/3 :white_check_mark:  
 19 (Project) A Pixel Art Editor: 0/4 :x:  
-20 Node.js: 0/4 :x:  
-21 (Project) Skill-Sharing Website: 0/4 :x:  
+20 Node.js: 0/3 :x:  
+21 (Project) Skill-Sharing Website: 0/2 :x:  
   
 Compliance:  
  Chapters = 80% (33 / 41)  
