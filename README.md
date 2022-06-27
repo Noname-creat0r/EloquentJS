@@ -1,7 +1,7 @@
 
 # EloquentJS progress
 
-Chapters statistic:
+Chapters statistic:  
  2 Program Structure: 3/3 :heavy_check_mark:  
  3 Functions: 3/3 :heavy_check_mark:  
  4 Data Structures: Objects and Arrays: 4/4 :heavy_check_mark:  
@@ -21,5 +21,7 @@ Chapters statistic:
 19 (Project) A Pixel Art Editor: 0/4 :x:  
 20 Node.js: 0/4 :x:  
 21 (Project) Skill-Sharing Website: 0/4 :x:  
- 
- TOTAL: 
+  
+Compliance:  
+ Chapters = 80% (33 / 41)  
+ Projects = 40% (6 / 15)  
