@@ -1,3 +1,14 @@
+/*Write a loop that makes seven calls to console.log to output the following triangle:
+
+#
+##
+###
+####
+#####
+######
+#######
+*/
+
 let triangle = "";
 const size = 7, 
 	symbol = '#';
