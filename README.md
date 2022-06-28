@@ -19,9 +19,9 @@ Chapters statistic:
 17 Drawing on Canvas: 0/3 :x:  
 18 HTTP and Forms: 2/3 :white_check_mark:  
 19 (Project) A Pixel Art Editor: 0/4 :x:  
-20 Node.js: 0/3 :x:  
+20 Node.js: 1/3 :white_check_mark:  
 21 (Project) Skill-Sharing Website: 0/2 :x:  
   
 Compliance:  
- Chapters = 80% (33 / 41)  
+ Chapters = 83% (34 / 41)  
  Projects = 40% (6 / 15)  
