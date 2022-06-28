@@ -22,6 +22,6 @@ Chapters statistic:
 20 Node.js: 1/3 :white_check_mark:  
 21 (Project) Skill-Sharing Website: 0/2 :x:  
   
-Compliance:  
+Сompleteness:  
  Chapters = 83% (34 / 41)  
  Projects = 40% (6 / 15)  
